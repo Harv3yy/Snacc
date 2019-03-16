@@ -1,0 +1,6 @@
+.hero_image {
+    background: url(heroimage.jpg.jpg) no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 100vh; 
+}
